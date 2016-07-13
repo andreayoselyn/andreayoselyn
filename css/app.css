@@ -1,9 +1,9 @@
 body { 
-	background: url(school.png) repeat;
+	background: url(../school.png) repeat;
 }
 img {
 	display: block;
-	margin: 100px auto 0 auto;
+	margin: 0 auto;
 	width: 100%;
 	height: auto;
 	max-width: 500px;
